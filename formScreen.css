@@ -1,0 +1,14 @@
+.userForm{
+    padding-top: 40px;
+    border: 3px solid dodgerblue;
+    height: 555px;
+    width: 450px;
+    border-radius: 7px;
+    margin-left: 475px;
+    background-color: white;
+}
+
+h1{
+    text-align: center;
+    color: blue;
+}
